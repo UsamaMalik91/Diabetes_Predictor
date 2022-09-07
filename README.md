@@ -1,1 +1,1 @@
-# Diabetes_Predictor
+# Diabetes_Predictor using Support Vector Machine Algorithm.
